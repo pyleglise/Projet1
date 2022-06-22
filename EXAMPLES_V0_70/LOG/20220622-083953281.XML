@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><log space="preserve"><logline level="5" timestamp="20220622-083953284"> <information> Information _UIA_VersionInfo version: T0.7-0; Release date: 20190501; OS Version: WIN_10</information></logline>
+<logline level="5" timestamp="20220622-083953298"> Matching class transformed to propertynumber: 30012: for having value Chrome_WidgetWin_1</logline>
+<logline level="5" timestamp="20220622-083953390"> UIA found the element</logline>
+<logline level="5" timestamp="20220622-083953415"> _UIA_normalizeExpression name:=Adres- en zoekbalk;elements 1-1 in properties array</logline>
+<logline level="5" timestamp="20220622-083953415">   _UIA_normalizeExpression property 1 name:=Adres- en zoekbalk</logline>
+<logline level="5" timestamp="20220622-083953415">  name:[name] value:[Adres- en zoekbalk] having index 17</logline>
+<logline level="5" timestamp="20220622-083953415"> *** Try to get a list of elements *** treescopetype:=7</logline>
+<logline level="0" timestamp="20220622-083953776"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 318</logline>
+<logline level="5" timestamp="20220622-083955331"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20220622-083955331"> Matching controltype transformed to propertynumber: 30003: for having value 50018</logline>
+<logline level="5" timestamp="20220622-083955349"> UIA found the element</logline>
+<logline level="5" timestamp="20220622-083955479"> _UIA_normalizeExpression name:=Nieuw tabblad;elements 1-1 in properties array</logline>
+<logline level="5" timestamp="20220622-083955479">   _UIA_normalizeExpression property 1 name:=Nieuw tabblad</logline>
+<logline level="5" timestamp="20220622-083955479">  name:[name] value:[Nieuw tabblad] having index 17</logline>
+<logline level="5" timestamp="20220622-083955479"> *** Try to get a list of elements *** treescopetype:=7</logline>
+<logline level="0" timestamp="20220622-083955495"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 15</logline>
+<logline level="5" timestamp="20220622-083955572"> <propertymatching></propertymatching></logline>
+<logline level="0" timestamp="20220622-083955652"> <treedump><treeheader>***** Dumping tree *****</treeheader><elementinfo>Title is: &lt;Sélecteur d&apos;affichage actif&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabControlTypeId&gt;	,&lt;50018&gt;	, (0000C362)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Explorateur (Ctrl+Maj+E)&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Recherche (Ctrl+Maj+F)&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Contrôle de code source (Ctrl+Maj+G) - 67 changements en attente&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;67&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Exécuter et déboguer (Ctrl+Maj+D)&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Explorateur distant&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Extensions (Ctrl+Maj+X)&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TextControlTypeId&gt;	,&lt;50020&gt;	, (0000C364)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo><elementinfo>Title is: &lt;Docker&gt;	Class   := &lt;&gt;	controltype:= &lt;UIA_TabItemControlTypeId&gt;	,&lt;50019&gt;	, (0000C363)	, acceleratorkey:= &lt;&gt;	, automationid:= &lt;&gt;	</elementinfo></treedump></logline>
+<logline level="0" timestamp="20220622-083955652"> </logline>
+<logline level="0" timestamp="20220622-083956223"> Finding object (using repository) with physical description 
+_UIA_action: No RTI.LASTELEMENT used for 
+_UIA_action: No RTI.PARENT used for 
+_UIA_action: No RTI.SEARCHCONTEXT used for 
+_UIA_action: Finding object 1  object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for &lt;&gt;
+_UIA_normalizeExpression ;elements 1-1 in properties array
+  _UIA_normalizeExpression property 1 
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 23Found match with element: 0 the Name is: &lt;Title is: &lt;Barre des tâches&gt;	Class   := &lt;Shell_TrayWnd&gt;	controltype:= &lt;UIA_PaneControlTypeId&gt;	,&lt;50033&gt;	, (0000C371)	rect := &lt; 0;1032;1920;48&gt;	hwnd := &lt; 65920&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT Bureau 1
+&lt;action&gt;Action 1 leftclick on  _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="5" timestamp="20220622-083957034"> _UIA_normalizeExpression name:=Adres- en zoekbalk;elements 1-1 in properties array</logline>
+<logline level="5" timestamp="20220622-083957034">   _UIA_normalizeExpression property 1 name:=Adres- en zoekbalk</logline>
+<logline level="5" timestamp="20220622-083957034">  name:[name] value:[Adres- en zoekbalk] having index 17</logline>
+<logline level="5" timestamp="20220622-083957034"> *** Try to get a list of elements *** treescopetype:=7</logline>
+<logline level="0" timestamp="20220622-083957067"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 8</logline>
+<logline level="5" timestamp="20220622-083957099"> <propertymatching></propertymatching></logline>
+</log>
