@@ -28,7 +28,7 @@
 ;~ const $cToolbarByName = "name:=((Navigation Toolbar)|(Navigatiewerkbalk))"
 const $cToolbarByName = "name:=Mozilla Firefox"
 const $cAddressBarByName = "name:=Rechercher avec Google ou saisir une adresse"
-const $cFFNewTabByName="name:=((Open a new tab.*)|(Een nieuw tabblad openen.*))"
+const $cFFNewTabByName="name:=((Open a new tab.*)|(Ouvrir un nouvel ounglet.*))"
 const $cstrDocument="Name:=" & "AutoIt.*" & "; controltype:=" & $UIA_DocumentControlTypeId & "; isoffscreen:=False"
 local $strFFExeFolder
 if (@AutoItX64==1) then

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><log space="preserve"><logline level="5" timestamp="20220622-105113084"> <information> Information _UIA_VersionInfo version: T0.7-0; Release date: 20190501; OS Version: WIN_10</information></logline>
+<logline level="5" timestamp="20220622-105113095"> Matching class transformed to propertynumber: 30012: for having value MozillaWindowClass</logline>
+<logline level="5" timestamp="20220622-105113101"> UIA found the element</logline>
+<logline level="5" timestamp="20220622-105113140"> Matching name transformed to propertynumber: 30005: for having value Mozilla Firefox</logline>
+<logline level="5" timestamp="20220622-105201951"> UIA failing ** NOT ** found the element</logline>
